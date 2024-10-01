@@ -13,7 +13,7 @@
         <Tab Title="Productos">
             <ShellContent ContentTemplate="{DataTemplate local:ProductoListPage}" />
         </Tab>
-        <Tab Title="Bolsas">
+        <Tab Title="Bolsa Producto">
             <ShellContent ContentTemplate="{DataTemplate local:BolsaListPage}" />
         </Tab>
     </TabBar>

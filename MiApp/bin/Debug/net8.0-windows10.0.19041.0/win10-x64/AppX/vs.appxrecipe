@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\crist\Downloads\MiApp\MiApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-24T20:06:16.362</Modified>
+      <Modified>2024-09-24T20:15:22.251</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\Downloads\MiApp\MiApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MiApp.dll">
       <PackagePath>MiApp.dll</PackagePath>
-      <Modified>2024-09-24T20:06:15.283</Modified>
+      <Modified>2024-09-24T20:15:20.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\Downloads\MiApp\MiApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MiApp.exe</PackagePath>
-      <Modified>2024-09-24T20:06:15.361</Modified>
+      <Modified>2024-09-24T20:15:20.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\Downloads\MiApp\MiApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
